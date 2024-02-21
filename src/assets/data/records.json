@@ -1,0 +1,3418 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 658,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "软件工程"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:658"
+      },
+      "end": {
+        "identity": 659,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "面向对象程序设计"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 658,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "软件工程"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:658"
+          },
+          "relationship": {
+            "identity": 29,
+            "start": 658,
+            "end": 659,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:29",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:658",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659"
+          },
+          "end": {
+            "identity": 659,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "面向对象程序设计"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 658,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "软件工程"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:658"
+      },
+      "end": {
+        "identity": 660,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "软件测试"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:660"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 658,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "软件工程"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:658"
+          },
+          "relationship": {
+            "identity": 30,
+            "start": 658,
+            "end": 660,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:30",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:658",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:660"
+          },
+          "end": {
+            "identity": 660,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "软件测试"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:660"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 658,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "软件工程"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:658"
+      },
+      "end": {
+        "identity": 661,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "软件维护"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:661"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 658,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "软件工程"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:658"
+          },
+          "relationship": {
+            "identity": 31,
+            "start": 658,
+            "end": 661,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:31",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:658",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:661"
+          },
+          "end": {
+            "identity": 661,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "软件维护"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:661"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 658,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "软件工程"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:658"
+      },
+      "end": {
+        "identity": 662,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "软件质量"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:662"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 658,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "软件工程"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:658"
+          },
+          "relationship": {
+            "identity": 32,
+            "start": 658,
+            "end": 662,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:32",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:658",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:662"
+          },
+          "end": {
+            "identity": 662,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "软件质量"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:662"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 657,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "CK度量"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657"
+      },
+      "end": {
+        "identity": 665,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "WMC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 657,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "CK度量"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657"
+          },
+          "relationship": {
+            "identity": 33,
+            "start": 657,
+            "end": 665,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:33",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665"
+          },
+          "end": {
+            "identity": 665,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "WMC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 657,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "CK度量"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657"
+      },
+      "end": {
+        "identity": 666,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "DIT"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 657,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "CK度量"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657"
+          },
+          "relationship": {
+            "identity": 34,
+            "start": 657,
+            "end": 666,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:34",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666"
+          },
+          "end": {
+            "identity": 666,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "DIT"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 657,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "CK度量"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657"
+      },
+      "end": {
+        "identity": 667,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "NOC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:667"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 657,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "CK度量"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657"
+          },
+          "relationship": {
+            "identity": 35,
+            "start": 657,
+            "end": 667,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:35",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:667"
+          },
+          "end": {
+            "identity": 667,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "NOC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:667"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 657,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "CK度量"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657"
+      },
+      "end": {
+        "identity": 668,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "RFC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:668"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 657,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "CK度量"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657"
+          },
+          "relationship": {
+            "identity": 36,
+            "start": 657,
+            "end": 668,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:36",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:668"
+          },
+          "end": {
+            "identity": 668,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "RFC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:668"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 657,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "CK度量"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657"
+      },
+      "end": {
+        "identity": 669,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "CBO"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 657,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "CK度量"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657"
+          },
+          "relationship": {
+            "identity": 37,
+            "start": 657,
+            "end": 669,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:37",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+          },
+          "end": {
+            "identity": 669,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "CBO"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 657,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "CK度量"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657"
+      },
+      "end": {
+        "identity": 670,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "LCOM"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:670"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 657,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "CK度量"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657"
+          },
+          "relationship": {
+            "identity": 38,
+            "start": 657,
+            "end": 670,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:38",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:670"
+          },
+          "end": {
+            "identity": 670,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "LCOM"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:670"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 659,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "面向对象程序设计"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659"
+      },
+      "end": {
+        "identity": 671,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "抽象"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:671"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 659,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "面向对象程序设计"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659"
+          },
+          "relationship": {
+            "identity": 39,
+            "start": 659,
+            "end": 671,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:39",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:671"
+          },
+          "end": {
+            "identity": 671,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "抽象"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:671"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 659,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "面向对象程序设计"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659"
+      },
+      "end": {
+        "identity": 672,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "封装"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:672"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 659,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "面向对象程序设计"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659"
+          },
+          "relationship": {
+            "identity": 40,
+            "start": 659,
+            "end": 672,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:40",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:672"
+          },
+          "end": {
+            "identity": 672,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "封装"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:672"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 659,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "面向对象程序设计"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659"
+      },
+      "end": {
+        "identity": 673,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "继承"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:673"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 659,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "面向对象程序设计"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659"
+          },
+          "relationship": {
+            "identity": 78,
+            "start": 659,
+            "end": 673,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:78",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:673"
+          },
+          "end": {
+            "identity": 673,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "继承"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:673"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 659,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "面向对象程序设计"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659"
+      },
+      "end": {
+        "identity": 674,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "多态"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:674"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 659,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "面向对象程序设计"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659"
+          },
+          "relationship": {
+            "identity": 79,
+            "start": 659,
+            "end": 674,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:79",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:674"
+          },
+          "end": {
+            "identity": 674,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "多态"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:674"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 659,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "面向对象程序设计"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659"
+      },
+      "end": {
+        "identity": 675,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "类与对象"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 659,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "面向对象程序设计"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659"
+          },
+          "relationship": {
+            "identity": 80,
+            "start": 659,
+            "end": 675,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:80",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:659",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+          },
+          "end": {
+            "identity": 675,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "类与对象"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 658,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "软件工程"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:658"
+      },
+      "end": {
+        "identity": 676,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "模块化设计"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:676"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 658,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "软件工程"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:658"
+          },
+          "relationship": {
+            "identity": 81,
+            "start": 658,
+            "end": 676,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:81",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:658",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:676"
+          },
+          "end": {
+            "identity": 676,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "模块化设计"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:676"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 676,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "模块化设计"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:676"
+      },
+      "end": {
+        "identity": 677,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "内聚"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:677"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 676,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "模块化设计"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:676"
+          },
+          "relationship": {
+            "identity": 82,
+            "start": 676,
+            "end": 677,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:82",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:676",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:677"
+          },
+          "end": {
+            "identity": 677,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "内聚"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:677"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 676,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "模块化设计"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:676"
+      },
+      "end": {
+        "identity": 678,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "耦合"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:678"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 676,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "模块化设计"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:676"
+          },
+          "relationship": {
+            "identity": 83,
+            "start": 676,
+            "end": 678,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:83",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:676",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:678"
+          },
+          "end": {
+            "identity": 678,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "耦合"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:678"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "软件测试"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:660"
+      },
+      "end": {
+        "identity": 679,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "可测试性"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "软件测试"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:660"
+          },
+          "relationship": {
+            "identity": 84,
+            "start": 660,
+            "end": 679,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:84",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:660",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+          },
+          "end": {
+            "identity": 679,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "可测试性"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 661,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "软件维护"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:661"
+      },
+      "end": {
+        "identity": 680,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "可维护性"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:680"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 661,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "软件维护"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:661"
+          },
+          "relationship": {
+            "identity": 85,
+            "start": 661,
+            "end": 680,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:85",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:661",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:680"
+          },
+          "end": {
+            "identity": 680,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "可维护性"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:680"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 662,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "软件质量"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:662"
+      },
+      "end": {
+        "identity": 679,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "可测试性"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 662,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "软件质量"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:662"
+          },
+          "relationship": {
+            "identity": 86,
+            "start": 662,
+            "end": 679,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:86",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:662",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+          },
+          "end": {
+            "identity": 679,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "可测试性"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 662,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "软件质量"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:662"
+      },
+      "end": {
+        "identity": 680,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "可维护性"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:680"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 662,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "软件质量"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:662"
+          },
+          "relationship": {
+            "identity": 87,
+            "start": 662,
+            "end": 680,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:87",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:662",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:680"
+          },
+          "end": {
+            "identity": 680,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "可维护性"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:680"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 662,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "软件质量"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:662"
+      },
+      "end": {
+        "identity": 681,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "可重用性"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:681"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 662,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "软件质量"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:662"
+          },
+          "relationship": {
+            "identity": 88,
+            "start": 662,
+            "end": 681,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:88",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:662",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:681"
+          },
+          "end": {
+            "identity": 681,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "可重用性"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:681"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 663,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "设计模式"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:663"
+      },
+      "end": {
+        "identity": 682,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "单一职责模式"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:682"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 663,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "设计模式"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:663"
+          },
+          "relationship": {
+            "identity": 89,
+            "start": 663,
+            "end": 682,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:89",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:663",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:682"
+          },
+          "end": {
+            "identity": 682,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "单一职责模式"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:682"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 663,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "设计模式"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:663"
+      },
+      "end": {
+        "identity": 683,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "开闭原则"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:683"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 663,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "设计模式"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:663"
+          },
+          "relationship": {
+            "identity": 90,
+            "start": 663,
+            "end": 683,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:90",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:663",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:683"
+          },
+          "end": {
+            "identity": 683,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "开闭原则"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:683"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 663,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "设计模式"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:663"
+      },
+      "end": {
+        "identity": 684,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "依赖倒转原则"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:684"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 663,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "设计模式"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:663"
+          },
+          "relationship": {
+            "identity": 91,
+            "start": 663,
+            "end": 684,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:91",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:663",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:684"
+          },
+          "end": {
+            "identity": 684,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "依赖倒转原则"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:684"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 663,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "设计模式"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:663"
+      },
+      "end": {
+        "identity": 685,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "接口隔离原则"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:685"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 663,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "设计模式"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:663"
+          },
+          "relationship": {
+            "identity": 92,
+            "start": 663,
+            "end": 685,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:92",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:663",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:685"
+          },
+          "end": {
+            "identity": 685,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "接口隔离原则"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:685"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 663,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "设计模式"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:663"
+      },
+      "end": {
+        "identity": 686,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "里氏代换原则"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:686"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 663,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "设计模式"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:663"
+          },
+          "relationship": {
+            "identity": 93,
+            "start": 663,
+            "end": 686,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:93",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:663",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:686"
+          },
+          "end": {
+            "identity": 686,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "里氏代换原则"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:686"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 664,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "软件项目管理"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:664"
+      },
+      "end": {
+        "identity": 687,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "质量管理"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:687"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 664,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "软件项目管理"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:664"
+          },
+          "relationship": {
+            "identity": 94,
+            "start": 664,
+            "end": 687,
+            "type": "包含",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:94",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:664",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:687"
+          },
+          "end": {
+            "identity": 687,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "质量管理"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:687"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 665,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "WMC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665"
+      },
+      "end": {
+        "identity": 672,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "封装"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:672"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 665,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "WMC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665"
+          },
+          "relationship": {
+            "identity": 95,
+            "start": 665,
+            "end": 672,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:95",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:672"
+          },
+          "end": {
+            "identity": 672,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "封装"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:672"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 665,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "WMC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665"
+      },
+      "end": {
+        "identity": 675,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "类与对象"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 665,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "WMC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665"
+          },
+          "relationship": {
+            "identity": 96,
+            "start": 665,
+            "end": 675,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:96",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+          },
+          "end": {
+            "identity": 675,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "类与对象"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 665,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "WMC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665"
+      },
+      "end": {
+        "identity": 679,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "可测试性"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 665,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "WMC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665"
+          },
+          "relationship": {
+            "identity": 97,
+            "start": 665,
+            "end": 679,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:97",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+          },
+          "end": {
+            "identity": 679,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "可测试性"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 665,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "WMC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665"
+      },
+      "end": {
+        "identity": 680,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "可维护性"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:680"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 665,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "WMC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665"
+          },
+          "relationship": {
+            "identity": 98,
+            "start": 665,
+            "end": 680,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:98",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:680"
+          },
+          "end": {
+            "identity": 680,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "可维护性"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:680"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 665,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "WMC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665"
+      },
+      "end": {
+        "identity": 681,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "可重用性"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:681"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 665,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "WMC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665"
+          },
+          "relationship": {
+            "identity": 99,
+            "start": 665,
+            "end": 681,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:99",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:681"
+          },
+          "end": {
+            "identity": 681,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "可重用性"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:681"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 665,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "WMC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665"
+      },
+      "end": {
+        "identity": 682,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "单一职责模式"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:682"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 665,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "WMC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665"
+          },
+          "relationship": {
+            "identity": 100,
+            "start": 665,
+            "end": 682,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:100",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:665",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:682"
+          },
+          "end": {
+            "identity": 682,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "单一职责模式"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:682"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 666,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "DIT"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666"
+      },
+      "end": {
+        "identity": 673,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "继承"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:673"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 666,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "DIT"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666"
+          },
+          "relationship": {
+            "identity": 101,
+            "start": 666,
+            "end": 673,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:101",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:673"
+          },
+          "end": {
+            "identity": 673,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "继承"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:673"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 666,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "DIT"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666"
+      },
+      "end": {
+        "identity": 675,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "类与对象"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 666,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "DIT"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666"
+          },
+          "relationship": {
+            "identity": 102,
+            "start": 666,
+            "end": 675,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:102",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+          },
+          "end": {
+            "identity": 675,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "类与对象"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 666,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "DIT"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666"
+      },
+      "end": {
+        "identity": 681,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "可重用性"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:681"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 666,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "DIT"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666"
+          },
+          "relationship": {
+            "identity": 103,
+            "start": 666,
+            "end": 681,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:103",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:681"
+          },
+          "end": {
+            "identity": 681,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "可重用性"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:681"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 666,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "DIT"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666"
+      },
+      "end": {
+        "identity": 683,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "开闭原则"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:683"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 666,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "DIT"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666"
+          },
+          "relationship": {
+            "identity": 104,
+            "start": 666,
+            "end": 683,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:104",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:683"
+          },
+          "end": {
+            "identity": 683,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "开闭原则"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:683"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 666,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "DIT"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666"
+      },
+      "end": {
+        "identity": 686,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "里氏代换原则"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:686"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 666,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "DIT"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666"
+          },
+          "relationship": {
+            "identity": 105,
+            "start": 666,
+            "end": 686,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:105",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:666",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:686"
+          },
+          "end": {
+            "identity": 686,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "里氏代换原则"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:686"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 667,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "NOC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:667"
+      },
+      "end": {
+        "identity": 673,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "继承"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:673"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 667,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "NOC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:667"
+          },
+          "relationship": {
+            "identity": 106,
+            "start": 667,
+            "end": 673,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:106",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:667",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:673"
+          },
+          "end": {
+            "identity": 673,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "继承"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:673"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 667,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "NOC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:667"
+      },
+      "end": {
+        "identity": 675,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "类与对象"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 667,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "NOC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:667"
+          },
+          "relationship": {
+            "identity": 107,
+            "start": 667,
+            "end": 675,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:107",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:667",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+          },
+          "end": {
+            "identity": 675,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "类与对象"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 667,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "NOC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:667"
+      },
+      "end": {
+        "identity": 679,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "可测试性"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 667,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "NOC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:667"
+          },
+          "relationship": {
+            "identity": 108,
+            "start": 667,
+            "end": 679,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:108",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:667",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+          },
+          "end": {
+            "identity": 679,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "可测试性"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 667,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "NOC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:667"
+      },
+      "end": {
+        "identity": 681,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "可重用性"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:681"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 667,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "NOC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:667"
+          },
+          "relationship": {
+            "identity": 109,
+            "start": 667,
+            "end": 681,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:109",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:667",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:681"
+          },
+          "end": {
+            "identity": 681,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "可重用性"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:681"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 668,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "RFC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:668"
+      },
+      "end": {
+        "identity": 678,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "耦合"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:678"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 668,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "RFC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:668"
+          },
+          "relationship": {
+            "identity": 110,
+            "start": 668,
+            "end": 678,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:110",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:668",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:678"
+          },
+          "end": {
+            "identity": 678,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "耦合"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:678"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 668,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "RFC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:668"
+      },
+      "end": {
+        "identity": 675,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "类与对象"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 668,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "RFC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:668"
+          },
+          "relationship": {
+            "identity": 111,
+            "start": 668,
+            "end": 675,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:111",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:668",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+          },
+          "end": {
+            "identity": 675,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "类与对象"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 668,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "RFC"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:668"
+      },
+      "end": {
+        "identity": 679,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "可测试性"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 668,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "RFC"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:668"
+          },
+          "relationship": {
+            "identity": 112,
+            "start": 668,
+            "end": 679,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:112",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:668",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+          },
+          "end": {
+            "identity": 679,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "可测试性"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 669,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "CBO"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+      },
+      "end": {
+        "identity": 672,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "封装"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:672"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 669,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "CBO"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+          },
+          "relationship": {
+            "identity": 113,
+            "start": 669,
+            "end": 672,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:113",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:672"
+          },
+          "end": {
+            "identity": 672,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "封装"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:672"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 669,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "CBO"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+      },
+      "end": {
+        "identity": 678,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "耦合"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:678"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 669,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "CBO"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+          },
+          "relationship": {
+            "identity": 114,
+            "start": 669,
+            "end": 678,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:114",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:678"
+          },
+          "end": {
+            "identity": 678,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "耦合"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:678"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 669,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "CBO"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+      },
+      "end": {
+        "identity": 675,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "类与对象"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 669,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "CBO"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+          },
+          "relationship": {
+            "identity": 115,
+            "start": 669,
+            "end": 675,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:115",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+          },
+          "end": {
+            "identity": 675,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "类与对象"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:675"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 669,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "CBO"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+      },
+      "end": {
+        "identity": 679,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "可测试性"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 669,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "CBO"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+          },
+          "relationship": {
+            "identity": 116,
+            "start": 669,
+            "end": 679,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:116",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+          },
+          "end": {
+            "identity": 679,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "可测试性"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:679"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 669,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "CBO"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+      },
+      "end": {
+        "identity": 681,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "可重用性"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:681"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 669,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "CBO"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+          },
+          "relationship": {
+            "identity": 117,
+            "start": 669,
+            "end": 681,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:117",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:681"
+          },
+          "end": {
+            "identity": 681,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "可重用性"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:681"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 669,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "CBO"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+      },
+      "end": {
+        "identity": 685,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "接口隔离原则"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:685"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 669,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "CBO"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+          },
+          "relationship": {
+            "identity": 118,
+            "start": 669,
+            "end": 685,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:118",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:685"
+          },
+          "end": {
+            "identity": 685,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "接口隔离原则"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:685"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 669,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "CBO"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+      },
+      "end": {
+        "identity": 684,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "依赖倒转原则"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:684"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 669,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "CBO"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669"
+          },
+          "relationship": {
+            "identity": 119,
+            "start": 669,
+            "end": 684,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:119",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:669",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:684"
+          },
+          "end": {
+            "identity": 684,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "依赖倒转原则"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:684"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 670,
+        "labels": [
+          "度量元"
+        ],
+        "properties": {
+          "name": "LCOM"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:670"
+      },
+      "end": {
+        "identity": 677,
+        "labels": [
+          "知识点"
+        ],
+        "properties": {
+          "name": "内聚"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:677"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 670,
+            "labels": [
+              "度量元"
+            ],
+            "properties": {
+              "name": "LCOM"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:670"
+          },
+          "relationship": {
+            "identity": 120,
+            "start": 670,
+            "end": 677,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:120",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:670",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:677"
+          },
+          "end": {
+            "identity": 677,
+            "labels": [
+              "知识点"
+            ],
+            "properties": {
+              "name": "内聚"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:677"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 657,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "CK度量"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657"
+      },
+      "end": {
+        "identity": 664,
+        "labels": [
+          "学科"
+        ],
+        "properties": {
+          "name": "软件项目管理"
+        },
+        "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:664"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 657,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "CK度量"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657"
+          },
+          "relationship": {
+            "identity": 121,
+            "start": 657,
+            "end": 664,
+            "type": "关联",
+            "properties": {
+
+            },
+            "elementId": "5:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:121",
+            "startNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:657",
+            "endNodeElementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:664"
+          },
+          "end": {
+            "identity": 664,
+            "labels": [
+              "学科"
+            ],
+            "properties": {
+              "name": "软件项目管理"
+            },
+            "elementId": "4:b7edae03-2ca0-4d68-8692-70a3e2e99cc1:664"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]

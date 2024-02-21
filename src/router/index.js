@@ -1,23 +1,38 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import HomeView from '../views/HomeView.vue'
+import Home from '../views/Home.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
   {
     path: '/',
-    name: 'home',
-    component: HomeView
+    name: 'Home',
+    component: Home,
+    redirect: '/ckGraph',
+    children: [
+      {
+        path: '/ckGraph/',
+        name: 'ckGraph',
+        component: () => import(/* webpackChunkName: "about" */ '../views/ckGraph.vue')
+      },
+      {
+        path: '/view2D',
+        name: 'view2D',
+        component: () => import(/* webpackChunkName: "about" */ '../views/view2D.vue')
+      },
+      {
+        path: '/dashBoard',
+        name: 'dashBoard',
+        component: () => import(/* webpackChunkName: "about" */ '../components/dashBoard.vue')
+      },
+    ]
   },
-  {
-    path: '/about',
-    name: 'about',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
-  }
+  // {
+  //   path: '/neo4j',
+  //   name: 'neo4j',
+  //   component: () => import(/* webpackChunkName: "about" */ '../views/Neo4j.vue')
+  // },
 ]
 
 const router = new VueRouter({
